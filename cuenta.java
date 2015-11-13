@@ -1,6 +1,6 @@
-int i=1
+int i=10
 
-for (i,i<=10,i++){
+for (i,i>=1,i--){
 	
 	System.out.println(i);
 }
