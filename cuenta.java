@@ -1,6 +1,1 @@
-int i=10
-
-for (i,i==0,i--){
-	
-	System.out.println(i);
-}
+Cuenta normal de 1 a 10 en java
