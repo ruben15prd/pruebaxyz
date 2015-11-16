@@ -1,1 +1,0 @@
-Cuenta normal de 10 a 1 en java
